@@ -1,25 +1,23 @@
-# bincTools
+ti.binc.tools
 
 A small library of useful methods.
 To be expanded...
 
-## relativeDate
+relativeDate
 returns a locale-aware string representation of a relative date or time
 
-## createUUID
+createUUID
 return a universally unique value to identify types, interfaces, and other items
 
-## getApplicationState
+getApplicationState
 return a string representation of app's current state
 
 --
 check out readme within ios folder for more details
 
 
-## Author
-
+Author
 Thomas Weber
 
-## License
-
+License
 MIT
